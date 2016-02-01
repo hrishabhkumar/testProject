@@ -1,0 +1,37 @@
+1,Herat,city,34.333,62.2,5
+2,Kabul,city,34.517,69.183,4
+3,Mazar-e Sharif,city,36.7,67.1,3
+4,Korce,city,40.6162,20.7779,3
+5,Tirane,city,41.333,19.833,5
+6,Algiers,city,36.763,3.051,4
+7,Skikda,city,36.879,6.907,4
+8,Oran,city,35.691,-0.642,3
+9,Ouled Djellal,city,34.417,5.067,2
+10,Mascara,city,35.394,0.14,1
+11,Annaba,city,36.9,7.767,3
+12,Pago Pago,city,14.27,-170.7,5
+13,Andorra La Vella,city,42.5,1.517,5
+14,Escaldes,city,42.5,1.533,1
+15,Benguela,city,-12.58,13.408,5
+16,Sumbe,city,-11.2,13.833,1
+17,Lubango,city,-14.917,13.5,5
+18,Luanda,city,-8.838,13.234,2
+19,Luanda,city,-7.05,14.817,1
+20,The Valley,city,18.217,-63.05,5
+21,Molodesjnaja,city,0,0,3
+22,McMurdo Station,city,-77.91,166.65,5
+23,Saint Johns,city,17.117,-61.85,1
+24,Falmouth,city,17.017,-61.783,2
+25,Bahia Blanca,city,-38.717,-62.283,3
+26,Berazategui,city,-34.767,-58.217,2
+27,Caseros,city,-34.6,-58.55,5
+28,Castelar,city,-34.667,-58.667,1
+29,Chacabuco,city,-34.642,-60.474,4
+30,Ezeiza,city,-34.85,-58.533,5
+31,Haedo,city,-34.633,-58.6,5
+32,Jose Leon Suarez,city,-34.533,-58.583,3
+33,La Plata,city,-34.931,-57.949,4
+34,Lomas De Zamora,city,-34.767,-58.4,4
+35,Mar del Plata,city,-38,-57.55,5
+36,Miramar,city,-38.267,-57.85,5
+37,Pinamar,city,-37.117,-56.833,3
