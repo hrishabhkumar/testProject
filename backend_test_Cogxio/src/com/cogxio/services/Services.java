@@ -30,7 +30,7 @@ public class Services
 	public List<LocationJDO> getSearch(String queryString)
 	{
 		PersistenceManager pm = PMF.get().getPersistenceManager();
-		Query query = pm.newQuery(LocationJDO.class, "searchToken == '"+queryString.trim()+"'");
+		Query query = pm.newQuery(LocationJDO.class, "searchToken == '"+queryString.trim().toLowerCase()+"'");
 		
 		List<LocationJDO> locations = (List<LocationJDO>) query.execute();
 		return locations;
